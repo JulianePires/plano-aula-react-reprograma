@@ -9,19 +9,15 @@
 * [Cronograma](#status-do-Projeto)
 * [Descrição de Atividades](#funcionalidades-e-demonstração-da-aplicação)
 
-</br>
 
 ### **Definição**
 
-</br>
 
 Esse curso tem como objetivo conhecer um pouco dessa ferramenta poderosa que é o React. Durante nosso tempo de aprendizado, você terá contato com a biblioteca e aprender conceitos básicos como funcionamento, manipulação da DOM, gerenciamento de estados, componentização e muitos outros conceitos voltados para a construção de interfaces do usuário.
 
-</br>
 
 #### **O que é React?**
 
-</br>
 
 React é uma biblioteca (um conjunto de ferramentas) desenvolvida pelo *Facebook* e o grupo de desenvolvedores globais (é uma ferramenta open source).
 
@@ -31,25 +27,20 @@ Durante as aulas também iremos conhecer ***Hooks***. Um conjunto de ferramentas
 
 Não podemos deixar de fora também o tão famigerado ***SPA***. Veremos do que se trata essa estratégia de carregamento utilizada nos mais diversos sites e plataformas.
 
-</br>
 
 ### **Pré-requisitos**
 
 Para o desenvolvimento das atividades e aplicação de conceitos durante o curso, teremos alguns pré-requisitos:
 
-</br>
 
 #### ***Equipamentos*** 
 
-</br>
 
 ``` Um computador com acesso à internet ```
 
-</br>
 
 #### ***Instalações***
 
-</br>
 
 Precisamos instalar primeiramente:
 
