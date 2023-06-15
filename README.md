@@ -3,11 +3,11 @@
 ## Índice 
 
 * [Definição](#Definição)
-* [Pré-requisitos](#o-que-e-react)
-* [Desafio](#índice)
-* [Layout](#descrição-do-projeto)
-* [Cronograma](#status-do-Projeto)
-* [Descrição de Atividades](#funcionalidades-e-demonstração-da-aplicação)
+* [Pré-requisitos](#Pré-requisitos)
+* [Desafio](https://github.com/JulianePires/plano-aula-react-reprograma/tree/main/Desafio)
+* [Layout](https://github.com/JulianePires/plano-aula-react-reprograma/tree/main/Layout)
+* [Cronograma](https://github.com/JulianePires/plano-aula-react-reprograma/tree/main/Cronograma)
+* [Descrição de Atividades](https://github.com/JulianePires/plano-aula-react-reprograma/tree/main/Atividades)
 
 
 ### **Definição**
